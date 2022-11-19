@@ -1,0 +1,9 @@
+{
+	"model": "sendler.Subscriber",
+	"pk": 1,
+	"fields": {
+		"name": "Fredericka Flynn",
+		"email": "diam.duis.mi@outlook.org",
+		"date": "Jun 29, 2023"
+	}
+}
